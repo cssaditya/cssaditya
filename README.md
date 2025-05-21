@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aditya</h1>
+<h1 align="center">Hi 👾 , I'm aditya</h1>
 <h3 align="center">Frontend, Gamedev, UI/UX and a lot of fun</h3>
 
 
