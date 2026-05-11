@@ -1,4 +1,4 @@
-<h1 align="center">Hemlo, i'm aditya</h1>
+<h1 align="center">hemlo, i'm aditya</h1>
 <h3 align="center">gamedev, webdev and a lot of fun</h3>
 
 
